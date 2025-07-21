@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Kelvin Carreno</h1>
 
-<!--
-**KelvinJoelC/kelvinjoelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Front-End Developer | 🧠 Problem Solver | 🌐 Tech Enthusiast <br>
+  📍 Madrid,Spain | Open to Relocation & Remote Work
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧾 About Me
+
+I’m a front-end developer with **3+ years of experience** building and migrating scalable web applications in **Angular**, with a passion for clean, maintainable code and a strong eye for design and performance.
+
+- 🚀 Experienced in working **remotely** with distributed teams
+- 🎯 Skilled in **Mobile-First Design**, micro frontends and complex UI components
+
+---
+
+### 📬 Get in Touch
+
+- 📧 [kelvinjcarreno@gmail.com](mailto:kelvinjcarreno@gmail.com)
+- ☎️ +34 633434151
+- 🌐 [Portfolio / Coming Soon]
